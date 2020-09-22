@@ -1,0 +1,51 @@
+body {
+    background-image: url('/Dark-with-carbon-fiber-texture-background-vector-07.jpg');
+    background-size: cover;
+}
+
+ul {
+    margin: 5px;
+    padding: 1px;
+}
+
+.colors li {
+    margin: 55px;
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+    list-style-type: none;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+}
+
+.rgb1 {
+    background-color: rgb(42, 83, 85);
+}
+.rgb2 {
+    background-color: rgb(204, 101, 27);
+}
+.rgb3 {
+    background-color: rgb(168, 45, 142);
+}
+
+.hsl1 {
+    background-color: hsl(34, 10%, 52%);
+}
+.hsl2 {
+    background-color: hsl(15, 72%, 70%);
+}
+.hsl3 {
+    background-color: hsl(192, 40%, 75%);
+}
+
+.hex1 {
+    background-color: #FFC4EB;
+}
+.hex2 {
+    background-color: #F1DEDC;
+}
+.hex3 {
+    background-color: #ABC798;
+}
