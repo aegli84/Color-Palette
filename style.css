@@ -1,6 +1,8 @@
 body {
     background-image: url('Dark-with-carbon-fiber-texture-background-vector-07.jpg');
     background-size: cover;
+    text-align: center;
+    margin-top: 5vh;
 }
 
 ul {
@@ -8,16 +10,19 @@ ul {
     padding: 1px;
 }
 
+
+
 .colors li {
-    margin: 55px;
-    width: 200px;
+    margin: 50px;
+    width: 190px;
     height: 120px;
     border-radius: 10px;
-    list-style-type: none;
-    text-align: center;
+    box-shadow: -1px -3px 24px -2px black;
     font-weight: bolder;
     font-size: larger;
     display: inline-block;
+    text-align: center;
+    line-height: 5.5vh;
 }
 
 .rgb1 {
